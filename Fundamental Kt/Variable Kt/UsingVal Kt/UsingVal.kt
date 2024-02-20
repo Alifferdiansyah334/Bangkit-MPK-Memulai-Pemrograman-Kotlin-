@@ -16,8 +16,8 @@
 
 fun main() {
 
-    val c = 15
-    c = 10
+    val c = "Dicoding"
+    c = "Dicoding Indonesia"
 
     println(c)
 }

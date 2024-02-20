@@ -16,8 +16,8 @@
 
 fun main() {
 
-    var c = 15
-    c = 10
+    var c = "Dicoding"
+    c = "Dicoding Indonesia"
 
     println(c)
 }

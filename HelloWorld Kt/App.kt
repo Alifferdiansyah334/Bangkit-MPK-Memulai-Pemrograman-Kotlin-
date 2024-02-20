@@ -3,5 +3,8 @@
 */
 
 fun main() {
-    print("Hello World!")
+}
+
+fun HelloWorld() {
+   print(HelloWorld)
 }
