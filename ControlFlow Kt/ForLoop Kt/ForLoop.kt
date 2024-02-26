@@ -19,3 +19,9 @@ fun contohdua(){
         println("Value is $i")
     }
 }
+
+/*
+    Pada kode di atas, kita menambahkan ekstensi step yang akan mengembalikan nilai baru 
+    dengan tipe IntProgression dengan jarak nilai sebelumnya adalah 3.
+*/
+

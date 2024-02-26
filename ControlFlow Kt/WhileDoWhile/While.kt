@@ -10,3 +10,7 @@ fun main(){
         counter++ //--> nilai counter akan diincrement setiap iterasi
     }
 }
+
+/*
+    While bersifat Entry Controlled Loop. Artinya, kondisi yang diberikan akan dievaluasi terlebih dahulu. Jika kondisi tersebut terpenuhi maka proses perulangan akan dijalankan.
+*/
